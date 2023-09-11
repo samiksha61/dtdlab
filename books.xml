@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+    <book>
+        <title name="Book Title">The Christmas Pig</title>
+        <zipcode>12345</zipcode>
+        <isbn no="98-8864567890"/>
+        <publish year="1995">Hachette Children's Group in the UK</publish>
+    </book>
+    <book>
+        <isbn no="98-88897654321"/>
+        <author>V.V. Giri</author>
+        <publish year="1995">Macmillan Company of India</publish>
+    </book>
+    <book>
+        <zipcode>54321</zipcode>
+        <isbn no="978-9876543210"/>
+    </book>
+</books>

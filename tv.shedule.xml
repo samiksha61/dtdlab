@@ -1,0 +1,32 @@
+
+<?xml version="1.0" ?>
+<!DOCTYPE TVSCHEDULE SYSTEM "tv.shedule.dtd"
+<TVSCHEDULE Name="MyTVSchedule">
+    <channel Chan="Channel1">
+        <banner>This is Channel 1</banner>
+        <Day>
+            <date>2023-09-10</date>
+            <programslot Vtr="123">
+                <Time>08:00 AM</Time>
+                <Title>Morning Show</Title>
+                <Description>This is a morning show</Description>
+            </programslot>
+            <programslot Vtr="124">
+                <Time>09:30 AM</Title>
+                <Title>Cooking Show</Title>
+                <Description>This is a cooking show</Description>
+            </programslot>
+        </Day>
+        <Day>
+            <date>2023-09-11</date>
+            <holiday>New Year's Day</holiday>
+        </Day>
+    </channel>
+    <channel Chan="Channel2">
+        <banner>Welcome to Channel 2</banner>
+        <Day>
+            <date>2023-09-10</date>
+            <holiday>Labor Day</holiday>
+        </Day>
+    </channel>
+</TVSCHEDULE>
